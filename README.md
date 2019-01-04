@@ -1,4 +1,4 @@
-Website with data access documentation
+Instructions for Data access using Globus
 
 1. If you don't already have a Globus account, please following instructions here: https://docs.globus.org/how-to/get-started/. If you already have a Globus account but it is not associated with your institution, use the following instructions to link your institutional identity with existing Globus account: https://docs.globus.org/how-to/link-to-existing/
 
