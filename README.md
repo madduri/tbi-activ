@@ -6,6 +6,13 @@ Website with data access documentation
 
 3. Once added, you can check if you can access the data from the UCSF endpoint (UCSF ACTIV-TBI). This link has instructions on how to access the endpoint: https://docs.globus.org/how-to/get-started/. You will be using UCSF ACTIV-TBI as the name of Collection instead of globus tutorial endpoint. ![UCSF Globus Endpoint](Screenshot_ACTIV.png)
 
+4. Setting up a Globus endpoint on a personal laptop: Please follow these instructions on setting up a Globus endpoint on  laptop so one can upload/download data from other Globus endpoints:
+* [OS X] (https://docs.globus.org/how-to/globus-connect-personal-mac/)
+* [Windows] (https://docs.globus.org/how-to/globus-connect-personal-windows/)
+* [Linux] (https://docs.globus.org/how-to/globus-connect-personal-linux/)
+
+5. Please direct any issues with Globus to support@globus.org
+
 
 
 
